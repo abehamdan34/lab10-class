@@ -1,0 +1,11 @@
+C:\Users\abeis\source\repos\Lab10MovieClass\bin\Debug\netcoreapp3.1\Lab10MovieClass.exe
+C:\Users\abeis\source\repos\Lab10MovieClass\bin\Debug\netcoreapp3.1\Lab10MovieClass.deps.json
+C:\Users\abeis\source\repos\Lab10MovieClass\bin\Debug\netcoreapp3.1\Lab10MovieClass.runtimeconfig.json
+C:\Users\abeis\source\repos\Lab10MovieClass\bin\Debug\netcoreapp3.1\Lab10MovieClass.runtimeconfig.dev.json
+C:\Users\abeis\source\repos\Lab10MovieClass\bin\Debug\netcoreapp3.1\Lab10MovieClass.dll
+C:\Users\abeis\source\repos\Lab10MovieClass\bin\Debug\netcoreapp3.1\Lab10MovieClass.pdb
+C:\Users\abeis\source\repos\Lab10MovieClass\obj\Debug\netcoreapp3.1\Lab10MovieClass.csprojAssemblyReference.cache
+C:\Users\abeis\source\repos\Lab10MovieClass\obj\Debug\netcoreapp3.1\Lab10MovieClass.AssemblyInfoInputs.cache
+C:\Users\abeis\source\repos\Lab10MovieClass\obj\Debug\netcoreapp3.1\Lab10MovieClass.AssemblyInfo.cs
+C:\Users\abeis\source\repos\Lab10MovieClass\obj\Debug\netcoreapp3.1\Lab10MovieClass.dll
+C:\Users\abeis\source\repos\Lab10MovieClass\obj\Debug\netcoreapp3.1\Lab10MovieClass.pdb
